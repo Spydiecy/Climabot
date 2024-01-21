@@ -31,6 +31,6 @@ After capturing data from these questions, Climabot will start answering your qu
 
 Climabot uses safety settings to block content that falls into certain harm categories, including harassment, hate speech, sexually explicit content, and dangerous content.
 
-##More Information
+## More Information
 
 For more information about Climabot and its services, visit the Climabot website: https://climabot.framer.ai/.
